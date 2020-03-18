@@ -1,0 +1,10 @@
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.exe
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.deps.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\bin\Debug\netcoreapp3.1\05-ExceptionsExample.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\obj\Debug\netcoreapp3.1\05-ExceptionsExample.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\obj\Debug\netcoreapp3.1\05-ExceptionsExample.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\obj\Debug\netcoreapp3.1\05-ExceptionsExample.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\05-ExceptionsExample\obj\Debug\netcoreapp3.1\05-ExceptionsExample.pdb

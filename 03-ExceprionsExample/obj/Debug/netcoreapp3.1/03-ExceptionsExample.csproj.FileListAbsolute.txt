@@ -1,0 +1,11 @@
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.exe
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.deps.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\bin\Debug\netcoreapp3.1\03-ExceptionsExample.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\obj\Debug\netcoreapp3.1\03-ExceptionsExample.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\obj\Debug\netcoreapp3.1\03-ExceptionsExample.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\obj\Debug\netcoreapp3.1\03-ExceptionsExample.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\obj\Debug\netcoreapp3.1\03-ExceptionsExample.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_Exceptions\03-ExceprionsExample\obj\Debug\netcoreapp3.1\03-ExceptionsExample.csprojAssemblyReference.cache
